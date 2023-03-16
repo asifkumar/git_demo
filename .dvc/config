@@ -1,0 +1,8 @@
+[core]
+    remote = fsx2
+['remote "fsx"']
+    url = \amznfsx3ozdpxzh.ds.mdsol.comsharegit_project
+['remote "fsx1"']
+    url = \amznfsx3ozdpxzh.ds.mdsol.com\share\git_project
+['remote "fsx2"']
+    url = \\amznfsx3ozdpxzh.ds.mdsol.com\share\git_project
